@@ -6,6 +6,9 @@ html{
 a{
     text-decoration: none;
 }
+a:link{
+    color: black;
+}
 a:visited{
     color:black;
 }
@@ -99,8 +102,6 @@ a:hover{
 .profile_img{
     display: flex;
     width: 600px;
-}
-table{
 }
 td{
     border: 1px solid black;
