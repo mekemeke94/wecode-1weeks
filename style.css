@@ -142,3 +142,11 @@ li{
     float: left;
 }
 
+/*darkmode*/
+.dark-mode{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.836);
+
+    transition: 800ms;
+}
+
